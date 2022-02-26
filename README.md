@@ -2,7 +2,7 @@
 
 Course repository for the 2022 version of my course at the University of Oxford
 
-**WARNING**: The code has proven **NOT** to work with Python 3.10, potentially due to incompatible libraries for pytorch.
+**WARNING**: The code has proven **NOT** to work with Python 3.10, potentially due to incompatible libraries for pytorch. I used Python 3.9 which works fine. 
 
 ## Seting-up the environment
 
